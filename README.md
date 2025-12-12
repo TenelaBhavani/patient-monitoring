@@ -1,1 +1,2 @@
 PatientGuard AI is an intelligent, privacy-first healthcare monitoring system that uses computer vision and machine learning to detect patient falls, unsafe behaviors, and emotional distress in real time. The solution processes video on edge devices, ensuring that no personal footage is stored or leaked. Instant alerts enable caregivers to respond faster to emergencies, while reducing hospital staff workload. PatientGuard AI transforms traditional monitoring into proactive, AI-driven patient safety.
+We have to run my project by using command "npm run dev".
